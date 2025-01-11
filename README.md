@@ -1,3 +1,3 @@
-# ML Models Notebooks
+# Google Colab Project
 
-This contains ML Notebook created as part of learnings
+This contains Google Colab projects including  ML, GenAI, LLM etc.
